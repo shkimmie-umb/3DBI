@@ -26,6 +26,7 @@ These scores help standardize and compare the translational readiness of various
 
 If you use any part of this dataset or scoring system, please cite:
 
+```
 @misc{your_lastname2025readiness,
 title={Benchmarking 3D Biomedical Imaging Readiness across Modern Medical Vision Systems},
 author={Your Name and Collaborators},
@@ -33,6 +34,7 @@ year={2025},
 note={Unpublished Manuscript},
 url={https://shkimmie-umb.github.io/}
 }
+```
 
 ## License
 
